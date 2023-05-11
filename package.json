@@ -4,7 +4,7 @@
   "description": "MagicMirror module for current Islamic Prayer Time",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/htilburgs/MMM-MyPrayerTimes.git"
+    "url": "git+https://github.com/djthsjr56/MMM-MyPrayerTimes.git"
   },
   "main": "MMM-MyPrayerTimes.js",
   "scripts": {
